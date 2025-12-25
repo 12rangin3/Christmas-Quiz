@@ -1,0 +1,50 @@
+[
+  { "question": "🎄 On which date is Christmas celebrated?", "options": ["December 24", "December 25", "January 1", "November 25"], "answer": 1 },
+  { "question": "🎅 Who delivers gifts on Christmas?", "options": ["Santa Claus", "Elf", "Snowman", "Reindeer"], "answer": 0 },
+  { "question": "🎁 What is placed on top of a Christmas tree?", "options": ["Bell", "Star", "Hat", "Candy"], "answer": 1 },
+  { "question": "❄️ Which animal pulls Santa’s sleigh?", "options": ["Horse", "Camel", "Reindeer", "Dog"], "answer": 2 },
+  { "question": "🔔 Which song is popular during Christmas?", "options": ["Jingle Bells", "Happy Birthday", "Baby Shark", "Despacito"], "answer": 0 },
+
+  { "question": "🎄 What color are Christmas holly leaves?", "options": ["Blue", "Green", "Red", "Yellow"], "answer": 1 },
+  { "question": "🎅 Where does Santa Claus live?", "options": ["North Pole", "South Pole", "Canada", "Iceland"], "answer": 0 },
+  { "question": "🎁 What do people exchange at Christmas?", "options": ["Cards", "Gifts", "Flowers", "Books"], "answer": 1 },
+  { "question": "❄️ What falls from the sky in winter?", "options": ["Rain", "Snow", "Sand", "Leaves"], "answer": 1 },
+  { "question": "🎄 What plant is used for Christmas decoration?", "options": ["Rose", "Tulip", "Pine", "Cactus"], "answer": 2 },
+
+  { "question": "🎅 What color is Santa’s suit?", "options": ["Blue", "Green", "Red", "Black"], "answer": 2 },
+  { "question": "🔔 What do bells do?", "options": ["Sing", "Ring", "Dance", "Glow"], "answer": 1 },
+  { "question": "🎁 Where are gifts kept?", "options": ["Under tree", "On roof", "In car", "In garden"], "answer": 0 },
+  { "question": "❄️ What season is Christmas in?", "options": ["Summer", "Winter", "Spring", "Autumn"], "answer": 1 },
+  { "question": "🎄 What shape is a Christmas wreath?", "options": ["Square", "Triangle", "Circle", "Star"], "answer": 2 },
+
+  { "question": "🎅 Who helps Santa?", "options": ["Elves", "Snowmen", "Penguins", "Dogs"], "answer": 0 },
+  { "question": "🎁 What wraps gifts?", "options": ["Paper", "Cloth", "Plastic", "Wood"], "answer": 0 },
+  { "question": "🔔 What do people hang on doors?", "options": ["Shoes", "Wreath", "Hat", "Clock"], "answer": 1 },
+  { "question": "❄️ What color is snow?", "options": ["Red", "White", "Blue", "Green"], "answer": 1 },
+  { "question": "🎄 Which tree is used for Christmas?", "options": ["Mango", "Palm", "Fir", "Banana"], "answer": 2 },
+
+  { "question": "🎅 Santa travels using?", "options": ["Car", "Train", "Sleigh", "Boat"], "answer": 2 },
+  { "question": "🎁 Gifts are opened on?", "options": ["Christmas Eve", "Christmas Day", "New Year", "Sunday"], "answer": 1 },
+  { "question": "🔔 Bells are usually made of?", "options": ["Plastic", "Iron", "Wood", "Paper"], "answer": 1 },
+  { "question": "❄️ Snowflakes are made of?", "options": ["Water", "Ice", "Salt", "Sugar"], "answer": 1 },
+  { "question": "🎄 Which color lights are common?", "options": ["Red & Green", "Black", "Brown", "Grey"], "answer": 0 },
+
+  { "question": "🎅 Santa laughs like?", "options": ["Ho Ho Ho", "Ha Ha", "He He", "Hi Hi"], "answer": 0 },
+  { "question": "🎁 What shape are candy canes?", "options": ["Straight", "Round", "Hook", "Square"], "answer": 2 },
+  { "question": "🔔 What do carolers sing?", "options": ["Rock songs", "Christmas songs", "Rap", "Jazz"], "answer": 1 },
+  { "question": "❄️ Snowman has?", "options": ["Hat", "Scarf", "Carrot nose", "All"], "answer": 3 },
+  { "question": "🎄 Christmas is a?", "options": ["Festival", "Sport", "Game", "Exam"], "answer": 0 },
+
+  { "question": "🎅 Santa wears?", "options": ["Jeans", "Suit", "Armor", "Uniform"], "answer": 1 },
+  { "question": "🎁 Gift boxes are usually?", "options": ["Closed", "Broken", "Open", "Empty"], "answer": 0 },
+  { "question": "🔔 Church bells ring on?", "options": ["Christmas", "Monday", "Summer", "Night"], "answer": 0 },
+  { "question": "❄️ Cold weather is called?", "options": ["Heat", "Winter", "Rainy", "Spring"], "answer": 1 },
+  { "question": "🎄 Christmas tree lights are?", "options": ["Colorful", "Black", "Brown", "Transparent"], "answer": 0 },
+
+  { "question": "🎅 Santa’s helpers are called?", "options": ["Elves", "Giants", "Kings", "Heroes"], "answer": 0 },
+  { "question": "🎁 Gifts bring?", "options": ["Sadness", "Happiness", "Fear", "Anger"], "answer": 1 },
+  { "question": "🔔 Sound made by bell?", "options": ["Ring", "Boom", "Buzz", "Click"], "answer": 0 },
+  { "question": "❄️ Snow melts into?", "options": ["Ice", "Water", "Steam", "Stone"], "answer": 1 },
+  { "question": "🎄 Christmas is celebrated by?", "options": ["Many people", "Only kids", "Only elders", "No one"], "answer": 0 }
+
+]

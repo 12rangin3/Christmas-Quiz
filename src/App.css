@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", system-ui;
+}
+
+/* Background */
+.page {
+  min-height: 100vh;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("https://images.unsplash.com/photo-1512917774080-9991f1c4c750")
+      center / cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Glass Card */
+.quiz-card {
+  width: 100%;
+  max-width: 420px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(14px);
+  border-radius: 18px;
+  padding: 25px;
+  color: white;
+  text-align: center;
+  animation: fadeIn 0.8s ease;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Inputs */
+.name-input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  margin: 15px 0;
+}
+
+/* Buttons */
+.start-btn,
+.restart-btn {
+  width: 100%;
+  padding: 12px;
+  border-radius: 30px;
+  border: none;
+  background: linear-gradient(135deg, #ff4d4d, #ff7b7b);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Question */
+.question {
+  font-size: 17px;
+  margin: 20px 0;
+}
+
+/* Options */
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option-btn {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.correct {
+  background: #2ecc71;
+  color: white;
+}
+
+.wrong {
+  background: #e74c3c;
+  color: white;
+}
+
+/* Progress */
+.progress-bar {
+  height: 6px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #ffe066;
+}
+
+/* Text */
+.username {
+  color: #ffe066;
+}
+
+.score {
+  font-size: 18px;
+}
+
+.message {
+  margin-bottom: 15px;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .quiz-card {
+    padding: 20px;
+  }
+
+  .question {
+    font-size: 16px;
+  }
+}
